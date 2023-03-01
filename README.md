@@ -39,7 +39,7 @@ Idk Just WhatsApp Bot
 - ✔️ | **Simple** 
 - ✔️ | **Button Template** 
 - ✔️ | **Multi Device** 
-- ✔️ | **Button Document(Experiment)** 
+- ✔️ | **Button Document** 
 ---------
 ### Some of the features include
 - ✔️ | Downloader 
@@ -48,7 +48,6 @@ Idk Just WhatsApp Bot
 - ✔️ | Nsfw 
 - ✔️ | Sticker 
 - ✔️ | Game 
-- ✔️ | Kerang Ajaib 
 - ✔️ | Quotes
 - ✔️ | Anime 
 - ✔️ | Premium 
