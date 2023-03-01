@@ -6,13 +6,13 @@ Idk Just WhatsApp Bot
 <p align="center">
     <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Ariefvoss BOT MD</h1>
+<h1 align="center">Ariefvoss Bot Multi Device</h1>
 <p align="center">
-  <a href="https://github.com/Arief-zx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;By+ZxCode;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Arief-zx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ariefvoss+Bot+Multi+Device;By+arief-zx;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="Ariefvoss BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Ariefvoss Bot" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Arief-zx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ZxCode-green.svg?style=for-the-badge&logo=github"></a>
@@ -21,7 +21,7 @@ Idk Just WhatsApp Bot
 
 ## ```Connect With Me 📞``` 
   <a href="https://wa.me/62895600555028">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+    <img align="left" alt="SIEGRIN | WhastApp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/arieff_westa">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
