@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -17,7 +17,7 @@ global.APIs = {
 // beli apikey premium pc wa: 0887435047326
 // beli apikey premium pc wa: 0887435047326
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey, tutor https://youtu.be/THsiM3I7sLI
+   'https://api.zeeoneofc.my.id': 'L6mLIgNvBK6NnRP', // 👉 login https://api.zeeoneofc.my.id to get apikey, tutor https://youtu.be/THsiM3I7sLI
 }
 global.sewabotnya = `
 Ariefvoss Bot
